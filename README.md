@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 👋 Hi, I’m @PRATEEK9682
+
 👀 I’m interested in Software Devloper
+
 🌱 I’m currently pursuing MCA at MANIT BHOPAL
+
 💞️ I’m looking to collaborate on ...
+
 📫 How to reach me 8840405826
